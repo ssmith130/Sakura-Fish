@@ -1,0 +1,20 @@
+{
+  "name": "sakurafish",
+  "version": "6.11.2",
+  "description": "posts sakura fish everyday",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sakura",
+    "fish"
+  ],
+  "author": "Sean",
+  "license": "ISC"
+    
+     "engines": {
+    "node": "6.11.2"
+  }
+}
